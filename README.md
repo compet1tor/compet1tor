@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @compet1tor
 - 👀 I’m interested in gamedev
-- 🌱 I’m currently learning in Further Education
+- 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tg.me/compet1tor
 
